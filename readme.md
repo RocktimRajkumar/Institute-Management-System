@@ -1,4 +1,5 @@
  PROJECT DESCRIPTION
+ ===================
 
 	The “Institute Management System” is based on managing the records of an institute and
 	managing the records of all the students and Staff. The first activity is based on entering the
@@ -16,6 +17,7 @@
 	database.
 
  Project Features:
+ ----------------
 
 	Staff : When a new Staff joins the Institute, his record is saved in the database and a
 			unique ID is generated.
@@ -30,3 +32,9 @@
 	Login/Logout : This module allows the admin to Login or Logout the application. The last
 			session detail of login and logout can be displayed. Further operations cannot be performed
 			after user exits.
+ 
+  Disadvantages:
+  -------------
+  	1. Database Backup is done using logical backup
+  	2. Database backup doesn't contain image i.e blob data type
+  	3. Database backup is done using sqldeveloper, so to import data we need to install sqldeveloper
