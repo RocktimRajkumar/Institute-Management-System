@@ -1,0 +1,17 @@
+--------------------------------------------------------
+--  DDL for Trigger EXAM_TRG
+--------------------------------------------------------
+
+  CREATE OR REPLACE TRIGGER "IMS"."EXAM_TRG" 
+BEFORE INSERT ON EXAM 
+FOR EACH ROW 
+BEGIN
+  <<COLUMN_SEQUENCES>>
+  BEGIN
+    IF INSERTING AND :NEW.EXAMID IS NULL THEN
+      SELECT EXAMSEQ.NEXTVAL INTO :NEW.EXAMID FROM SYS.DUAL;
+    END IF;
+  END COLUMN_SEQUENCES;
+END;
+/
+ALTER TRIGGER "IMS"."EXAM_TRG" ENABLE;

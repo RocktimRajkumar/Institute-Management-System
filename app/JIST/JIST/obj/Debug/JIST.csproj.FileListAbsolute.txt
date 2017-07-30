@@ -1,0 +1,92 @@
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\bin\Debug\JIST.exe.config
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\bin\Debug\JIST.exe
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\bin\Debug\JIST.pdb
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.csprojResolveAssemblyReference.cache
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.homepage.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.Login.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.Properties.Resources.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.csproj.GenerateResource.Cache
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.exe
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.pdb
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.Update.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.StudentManagement.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.Delete.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.Fee_Payment.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.ExamManagement.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.insertmarks.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.Reports.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.Attendance.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.AttendanceDetails.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.insertAttendance.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.CollectiveInformation.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.StudentDetails.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.Student_Admission.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.Admission_Registration.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management\JIST\JIST\obj\Debug\JIST.Teaching_Staff_Admission.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\bin\Debug\JIST.exe.config
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.exe
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.pdb
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\bin\Debug\JIST.exe
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\bin\Debug\JIST.pdb
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.csprojResolveAssemblyReference.cache
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Admission_Registration.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Student_Admission.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Attendance.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.AttendanceDetails.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.CollectiveInformation.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Delete.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.ExamManagement.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Fee_Payment.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.homepage.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.insertAttendance.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.insertmarks.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Login.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Properties.Resources.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Reports.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.StudentDetails.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.StudentManagement.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Teaching_Staff_Admission.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Update.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.csproj.GenerateResource.Cache
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Non_Teaching_Admission.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.StaffUpdate.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.StaffManagement.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.StaffDelete.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.StaffDetail.resources
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.loading.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\bin\Debug\JIST.exe.config
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.exe
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.pdb
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\bin\Debug\JIST.exe
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\bin\Debug\JIST.pdb
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\bin\Debug\Animator.dll
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\bin\Debug\Oracle.ManagedDataAccess.dll
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.csprojResolveAssemblyReference.cache
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Admission_Registration.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.loading.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Non_Teaching_Admission.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.StaffDelete.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.StaffDetail.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.StaffManagement.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Student_Admission.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Attendance.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.AttendanceDetails.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.CollectiveInformation.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Delete.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.ExamManagement.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Fee_Payment.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.homepage.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.insertAttendance.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.insertmarks.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Login.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Properties.Resources.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Reports.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.StudentDetails.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.StudentManagement.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.StaffUpdate.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Teaching_Staff_Admission.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.Update.resources
+Z:\End User\Documents\program\c sharp\GUI\JIST management Minor Project\JIST\JIST\obj\Debug\JIST.csproj.GenerateResource.Cache
