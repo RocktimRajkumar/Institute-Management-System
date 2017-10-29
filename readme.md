@@ -39,4 +39,22 @@
   	2. Database backup doesn't contain image i.e blob data type
   	3. Database backup is done using sqldeveloper, so to import data we need to install sqldeveloper
 
+  # ScreenShot
 
+   ## Loading Page
+  ![Sample Portfolio](https://github.com/Rocktim53/Institute-Management-System/blob/master/screenshot/loading.png)
+
+   ## Login Page
+  ![Sample Portfolio](https://github.com/Rocktim53/Institute-Management-System/blob/master/screenshot/login.png)
+
+   ## Home Page
+  ![Sample Portfolio](https://github.com/Rocktim53/Institute-Management-System/blob/master/screenshot/home.png)
+
+   ## Student Admission
+   ![Sample Portfolio](https://github.com/Rocktim53/Institute-Management-System/blob/master/screenshot/studentadmission.png)
+
+   ## Attendance Detail
+   ![Sample Portfolio](https://github.com/Rocktim53/Institute-Management-System/blob/master/screenshot/AttendanceDetail.png)
+
+   ## Staff Detail
+   ![Sample Portfolio](https://github.com/Rocktim53/Institute-Management-System/blob/master/screenshot/staffdetail.png)
